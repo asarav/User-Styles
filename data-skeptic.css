@@ -1,0 +1,12 @@
+/* Sometimes adblockers can resize the images. This can prevent that*/
+.episode-img {
+    width: 300px;
+}
+
+/* Make the sidebar sticky for convenience*/
+.page-sidebar {
+    position: fixed;
+    margin-left: 65%;
+    height: 300px;
+    padding-top: 10px;
+}

@@ -1,0 +1,23 @@
+.home.blog {
+    background: black;
+}
+
+.main {
+    background: grey;
+}
+
+.episode.odd .podcast-excerpt {
+    color: white;   
+}
+
+.episode.odd .podcast-read-more {
+    color: #00a99d;
+}
+
+.episode.odd .podcast-content {
+    color: white;
+}
+
+.episode.odd .episode-num {
+    color: white;
+}

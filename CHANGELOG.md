@@ -1,3 +1,6 @@
+# Version 0.0.4
+* Add stylesheet for http://jockopodcast.com/. This is a light theme.
+
 # Version 0.0.3
 * Add stylesheet for https://www.xoticpc.com/. This is a light theme.
 

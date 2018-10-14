@@ -1,0 +1,45 @@
+#page {
+    background-color: white;
+    color: black;
+}
+
+.site::before {
+    background-color: white;
+    color: black;
+}
+
+.content-sidebar .widget .widget-title {
+    color: black;
+}
+
+#recent-posts-2 {
+    color: black;
+}
+
+div#primary-sidebar.primary-sidebar.widget-area {
+    color: black;   
+}
+
+div#page.hfeed.site div#main.site-main div#secondary div#primary-sidebar.primary-sidebar.widget-area aside#recent-posts-2.widget.widget_recent_entries {
+    color: black;
+}
+
+div#page.hfeed.site div#main.site-main div#secondary div#primary-sidebar.primary-sidebar.widget-area aside#recent-posts-2.widget.widget_recent_entries h1.widget-title {
+    color: black
+}
+
+div#page.hfeed.site div#main.site-main div#secondary div#primary-sidebar.primary-sidebar.widget-area aside#recent-posts-2.widget.widget_recent_entries ul li a {
+    color: black;
+}
+
+div#page.hfeed.site div#main.site-main div#secondary div#primary-sidebar.primary-sidebar.widget-area aside#text-17.widget.widget_text {
+    color: black;
+}
+
+html body.home.page-template-default.page.page-id-78.header-image.grid div#page.hfeed.site div#main.site-main div#secondary div#primary-sidebar.primary-sidebar.widget-area aside#text-17.widget.widget_text div.textwidget a b {
+    color: black;
+}
+
+html body.home.page-template-default.page.page-id-78.header-image.grid div#page.hfeed.site div#main.site-main div#secondary div#primary-sidebar.primary-sidebar.widget-area aside#text-7.widget.widget_text div.textwidget h1 a {
+    color: black;
+}

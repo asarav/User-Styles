@@ -1,0 +1,87 @@
+.page {
+    color: black;
+    background-color: white;
+}
+
+body {
+    color: black;
+}
+
+.main-wrapper {
+    color: black;
+}
+
+#header-nav .drop-box {
+    background: rgba(100, 100, 100,.94);
+}
+
+body.cms-home .main-container .block-title span {
+    color: black !important;
+}
+
+.page-title h1, .page-title h2, .product-name h1, .product-name .h1 {
+    color: black;   
+}
+
+.footer {
+    background-color: white;
+    color: black;
+}
+
+.footer .links a {
+    color: #222;
+}
+
+.footer .footer-frame {
+    background-color: white;
+}
+
+.footer address {
+    color: black;
+}
+
+.products-grid > li .item-inner {
+    color: black;
+}
+
+h2.product-name a, h3.product-name a, h4.product-name a, h5.product-name a, p.product-name a {
+    color: black;   
+}
+
+#price-filter {
+    color: #222;   
+}
+
+#price-filter div.adj-nav-slider {
+    background: gray;
+}
+
+.pager .limiter > label {
+    color: #222;   
+}
+
+.sorter label {
+    color: #222;
+}
+
+#narrow-by-list dd {
+    background: white;
+    color: black;
+}
+
+#narrow-by-list dt {
+    color: black;
+}
+
+.bundle-product .footer {
+    background: white;
+    color: black;
+}
+
+.footer .block-title strong {
+    color: black;
+}
+
+.section-show-button {
+    color: black;
+}

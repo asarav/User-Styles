@@ -1,3 +1,6 @@
+# Version 0.0.5
+* Add stylesheet for https://electrek.co/. This is a darker theme.
+
 # Version 0.0.4
 * Add stylesheet for http://jockopodcast.com/. This is a light theme.
 

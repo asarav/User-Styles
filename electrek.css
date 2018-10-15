@@ -1,0 +1,36 @@
+.site-header, .js-header-sticky {
+    background: black;
+}
+
+.header-right-area {
+    background: black;
+}
+
+.header-logo {
+    background: black;
+}
+
+.js-header-sticky .site-header-inner:after, .js-header-sticky .site-header-inner:before {
+    background: black;
+}
+
+.post-content {
+    background: black;
+    color: white;
+} 
+
+.author-content .post-title a, .author-content .sub-title a, .post-content .post-title a, .post-content .sub-title a, .product-content .post-title a, .product-content .sub-title a {
+    color: white;
+}
+
+.post-meta>* {
+    color: white;
+} 
+
+.related-guides-item p {
+    color: white;
+}
+
+.author-gear-item-description {
+    color: white;
+}

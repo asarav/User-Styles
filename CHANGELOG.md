@@ -1,3 +1,6 @@
+# Version 0.0.6
+* Add stylesheet for https://www.dictionary.com/. This is a dark theme. There are surprisingly not many styles for dictionary.com, so this might be worth publishing on https://userstyles.org/.
+
 # Version 0.0.5
 * Add stylesheet for https://electrek.co/. This is a darker theme.
 

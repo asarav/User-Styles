@@ -1,0 +1,59 @@
+#body-main-wrap {
+    background: black;
+}
+
+#post-area {
+    background: black;
+}
+
+#pico p {
+    color:white;
+}
+
+div.comment_message {
+    color: white;
+}
+
+blockquote {
+    color: gray;
+}
+
+.post-title.left {
+    color: white;
+}
+
+.ntv-in-article {
+    display: none;
+}
+
+.ntv-boap {
+    display: none;
+}
+
+.teslarati_xenforo_comments {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+h3.side-list-title {
+    color: white;
+}

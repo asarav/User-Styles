@@ -1,3 +1,6 @@
+# Version 0.0.7
+* Add stylesheet for https://www.teslarati.com/. This is a dark theme. It also functions as an ad blocker.
+
 # Version 0.0.6
 * Add stylesheet for https://www.dictionary.com/. This is a dark theme. There are surprisingly not many styles for dictionary.com, so this might be worth publishing on https://userstyles.org/.
 

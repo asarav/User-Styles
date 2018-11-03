@@ -1,3 +1,6 @@
+# Version 0.08
+* Add stylesheet for https://www.greentechmedia.com/. This is a dark theme.
+
 # Version 0.0.7
 * Add stylesheet for https://www.teslarati.com/. This is a dark theme. It also functions as an ad blocker.
 

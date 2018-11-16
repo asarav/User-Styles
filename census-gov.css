@@ -1,0 +1,44 @@
+.container-fluid {
+    background: black;
+    color: white;
+}
+
+.hubDetailContent {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.breadcrumb {
+    color: lightblue;
+}
+
+a {
+    color: lightblue !important;
+}
+
+.uscb-h3 {
+    color: lightblue;
+}
+
+.uscb-layout-row .uscb-top-pagination .uscb-layout-align-start-center {
+    color: lightblue;
+}
+
+body { 
+    background: black;
+}
+
+.uscb-color-secondary-1 {
+    color: white !important;   
+}
+
+.uscb-title-3 {
+    color: lightblue;
+}
+
+.uscb-color-primary {
+    color: lightblue !important;    
+}

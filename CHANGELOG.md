@@ -1,4 +1,10 @@
-# Version 0.08
+# Version 0.0.10
+* Add stylesheet for https://www.psypost.org/. This is a dark theme.
+
+# Version 0.0.9
+* Add stylesheet for https://www.census.gov/en.html. This is a dark theme.
+
+# Version 0.0.8
 * Add stylesheet for https://www.greentechmedia.com/. This is a dark theme.
 
 # Version 0.0.7

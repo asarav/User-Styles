@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.page-template-default {
+    background-color: black;
+    color: white;
+}
+
+body.custom-background {
+    background-color: black;
+    color: white;
+}
+
+.site {
+    background-color: black;
+    color: white;
+}
+
+.menu-item {
+    color: white;
+}
+
+.nav-menu li, .nav-menu li a {
+    color: white;
+}
+
+.main-navigation li a:hover, .main-navigation li a:focus {
+    color: lightblue;
+}
+
+div#main {
+    color: white;
+}

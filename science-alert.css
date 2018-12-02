@@ -1,0 +1,28 @@
+body {
+    background: black;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.component-content .article-container .main-article {
+    background: black;
+}
+
+.h1 {
+    color: darkred;
+}
+
+.component-content .article-container .article-intro-container {
+    color: darkred;
+}
+
+#rt-main .rt-container {
+    background: black;
+}
+
+.listlayout .column .article-item-1 .introtext-feature p {
+    color: black;
+}

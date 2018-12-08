@@ -1,3 +1,6 @@
+# Version 0.0.12
+* Added stylesheet for https://www.futuretimeline.net/. This is a dark theme. This style is old, and will need to be updated.
+
 # Version 0.0.11
 * Add stylesheet for https://www.sciencealert.com/. This is a dark theme.
 

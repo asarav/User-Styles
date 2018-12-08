@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+}
+
+#advert-top-desktop > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2) > span:nth-child(1) {
+    color: white;
+}

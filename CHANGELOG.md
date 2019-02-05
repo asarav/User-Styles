@@ -1,3 +1,6 @@
+# Version 0.0.14
+* Added stylesheet for https://www.futurity.org/. This is a darker theme.
+
 # Version 0.0.13
 * Added stylesheet for https://www.ucsf.edu/. This is a darker theme.
 

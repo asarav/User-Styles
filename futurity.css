@@ -1,0 +1,35 @@
+body {
+    background: #4c4a4a;
+}
+
+p {
+    color: white;
+}
+
+.sticky-wrap.article-content {
+    background: black;
+}
+
+.main-nav.navbar.navbar-default {
+    background: grey;
+}
+
+.article-header .article-date {
+    color: white;
+}
+
+.article-header .article-author {
+    color: white;
+}
+
+.article .article-content .stickem-container .sticy-share-block .social-copyright p {
+    color: white;
+}
+
+.home-popular li .title-section .post-number {
+    color: white;
+}
+
+.title-secondary a {
+    color: white;
+}

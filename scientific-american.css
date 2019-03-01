@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background: black;
+}
+
+.tout-feature__mid {
+    color: black;
+}
+
+.sticky-header {
+    background-color: black;
+    color: white;
+}
+
+.share-box__inner__item__link {
+    background-color: grey;
+}
+
+.page-context-nav.is-sticky {
+    background-color: grey;
+}
+
+p {
+    color: white;
+}

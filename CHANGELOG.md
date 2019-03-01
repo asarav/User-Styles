@@ -1,3 +1,6 @@
+# Version 0.0.15
+* Added stylesheet for https://www.scientificamerican.com/. This is a dark theme.
+
 # Version 0.0.14
 * Added stylesheet for https://www.futurity.org/. This is a darker theme.
 

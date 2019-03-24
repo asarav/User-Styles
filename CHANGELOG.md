@@ -1,3 +1,6 @@
+# Version 0.0.16
+* Added stylesheet for https://iq.hse.ru/en/. This is a dark theme.
+
 # Version 0.0.15
 * Added stylesheet for https://www.scientificamerican.com/. This is a dark theme.
 

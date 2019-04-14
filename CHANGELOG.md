@@ -1,3 +1,6 @@
+# Version 0.0.17
+* Added stylesheet for https://www.techradar.com/. This functions as an ad blocker.
+
 # Version 0.0.16
 * Added stylesheet for https://iq.hse.ru/en/. This is a dark theme.
 

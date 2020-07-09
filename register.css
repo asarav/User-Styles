@@ -1,0 +1,52 @@
+body {
+    background: black;
+    color: white;
+}
+#page {
+    background: black;
+}
+
+.rt-virtual-carousel {
+    color: white;
+}
+
+#footer .left_block .reg_foot .foot_desc {
+    color: white;
+}
+
+.has_lateral_ornaments.html_comment {
+    color: red;
+}
+
+#story-bot-col {
+    color: white;
+}
+
+.title_standfirst {
+    color: blue;
+}
+
+.standfirst {
+    color: blue;
+}
+
+#site_sect {
+    color: blue;
+}
+
+.pascal_comment {
+    color: red;
+}
+
+.top_nav {
+    color: red;
+}
+
+#top_nav a {
+    color: red;
+}
+
+.nav_vulture {
+    color: red;
+    background: red;
+}

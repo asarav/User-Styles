@@ -1,0 +1,74 @@
+body {
+    background: #2f2f2f;
+}
+
+a.text-lg {
+    color: lightblue
+}
+
+a.text-xs {
+    color: lightblue
+}
+
+h2 {
+    color: white
+}
+
+h1 {
+    color: white
+}
+
+h3 {
+    color: white
+}
+
+h3.text-primary-400 {
+    color: white
+}
+
+.text-base {
+    color: white
+}
+
+p {
+    color: white
+}
+
+time {
+    color: white
+}
+
+.font-regular {
+    color: lightblue;
+}
+
+.font-regular > a {
+    color: #4848f8;
+}
+
+ul li::before {
+    content: "\2022";
+    /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: red;
+    /* Change the color */
+    font-weight: bold;
+    /* If you want it to be bold */
+    display: inline-block;
+    /* Needed to add space between the bullet and the text */
+    width: 1em;
+    /* Also needed for space (tweak if needed) */
+    margin-left: -1em;
+    /* Also needed for space (tweak if needed) */
+}
+
+.leading-normal {
+    color: white
+}
+
+.subtitle-2 {
+    color: white;
+}
+
+.ml-1 {
+    color: lightblue;
+}

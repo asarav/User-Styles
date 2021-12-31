@@ -1,4 +1,4 @@
-# Version 0.0.16
+# Version 0.0.18
 * Added stylesheet for https://mashable.com/. This is a dark theme.
 
 # Version 0.0.17

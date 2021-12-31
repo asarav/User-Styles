@@ -1,6 +1,6 @@
 # Version 0.0.16
 * Added stylesheet for https://mashable.com/. This is a dark theme.
-* 
+
 # Version 0.0.17
 * Added stylesheet for https://www.techradar.com/. This functions as an ad blocker.
 

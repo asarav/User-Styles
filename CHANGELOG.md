@@ -1,3 +1,6 @@
+# Version 0.0.19
+* Added stylesheet for https://www.gamespot.com/. This is a dark theme.
+* 
 # Version 0.0.18
 * Added stylesheet for https://mashable.com/. This is a dark theme.
 

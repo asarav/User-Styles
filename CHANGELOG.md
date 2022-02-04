@@ -1,4 +1,4 @@
-# Version 0.0.19
+# Version 0.0.20
 * Added stylesheet for https://www.pcgamer.com/. This is a pseudo dark theme.
 
 # Version 0.0.19
